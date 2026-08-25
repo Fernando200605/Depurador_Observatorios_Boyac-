@@ -1,0 +1,5 @@
+*.venv
+*.xlsx
+pruebas.py
+testing_automatico.py
+*__pycache__
